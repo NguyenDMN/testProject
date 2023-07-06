@@ -1,0 +1,151 @@
+
+
+
+CSIS2200 – 008 – Systems Analysis and Design
+
+
+
+
+Assignment: 1
+
+
+
+
+Emerging technologies in MIS - AI
+
+
+
+
+
+
+
+Instructor: Dr. Abhijit Sen
+Submission Date: June 01 2023
+
+
+Group# 1
+
+
+
+
+Members:
+Daman Preet Kaur - 300369656 (kaurd36@student.douglascollege.ca)
+Dang Minh Nguyen Nguyen - 300364708 (nguyend78@student.douglascollege.ca)
+Lu He - 300366961 (hel8@student.douglascollege.ca)
+Stephanie Singh - 300357447 (singhs187@student.douglascollege.ca)
+
+Introduction
+
+The purpose of this paper is to discuss emerging technologies in MIS (Management Information Systems), in particular AI (Artificial Intelligence). AI refers to the simulation of human intelligence by software coded heuristics. Nowadays, this code is prevalent in everything from cloud-based enterprise applications to consumer apps and even embedded firmware. The video will look into the past, present and future of AI and its applications in our everyday lives.
+
+Methodology
+
+Firstly, the team met and decided which topic we would like to focus on and selected the topic. From there, the team then discussed and distributed the work and briefly discussed how the research was to be conducted and how the findings would be compiled and each member was put in charge of the different aspects of the entire project. 
+
+Research was then conducted using various mediums and online tools, articles, periodicals and academic textbooks. These findings were then added to the team’s cloud based document where the team organized, sorted and formatted the information for the report. InVideo.io which is itself an AI tool was then utilized to produce and present our findings. All of the findings from the cloud based document were then storyboarded to be converted from a text into video template using InVideo. 
+
+Some challenges we faced were initially understanding how InVideo worked. The tutorials provided helped a lot but it also took some time to navigate and understand how the application worked in itself and how to modify and edit things without losing any critical work. As the application was new to all the members, this process took a significant amount of time to complete.
+
+Video Content
+
+The video starts with briefly describing AI?
+
+AI systems are artificial and constructed and coded by humans, they are based on math, statistics and probabilities, they work by finding patterns and connections in data and they do so at such a large scale, manipulating almost unimaginable amounts of data. It is also often very complex and opaque and it can be very hard to explain how it works. Most AI systems in use today only really know about one thing and it is “narrow” intelligence. It can be summed up as AI being a sociotechnical system; it is a combination of computers and humans, creating, selecting and processing the data.
+
+It then moves on to a brief history of AI:
+
+The idea of AI was first introduced to people in 1939, based on the character Tin Man in the American musical fantasy film named Wizard of Oz. Fast forward to 1950 where Alan Turing, a young British polymath, proposed how to build and test the intelligent machine in his paper, Computing Machinery and Intelligence. He noticed that humans solve problems and make decisions based on their knowledge, and information, as well as reason and logic. Thus, he suggested that we can apply the same phenomenon to build an intelligent machine based on the concept above. However, due to the limited function and cost of the computers at that time, he did not have the chance to prove his idea. 
+
+In 1955, Allen Newell, Cliff Shaw, and Herbert Simon created a program called Logic Theorist, which was designed to mimic the way humans solve problems. This project was funded by Reachsearch and Development Corporation. By 1956, John McCarthy and Marvin Minsky hosted a conference called the Dartmouth Summer Research Project on Artificial Intelligence. In this conference, the Logic Theorist was introduced and presented, and it was recognised as the first Artificial Intelligence (AI) program. Although the result of the conference did not meet McCarthy’s expectation as there was no agreement on the standard methods about this field, this event had a significant impact on the research of the next 20 years.
+
+From 1957 to 1974, AI developed positively because of computer development in terms of capacity, speed, cost, and accessibility. Due to the improvement of computers, humans had a better understanding of how to apply algorithms and machine learning in problem-solving skills. There were some successful projects at the early of this time such as Newell and Simon’s General Problem Solver and Joseph Weizenbaum’s ELIZA. These two projects illustrated a promising future for problem-solving objectives and interpreting languages. Moreover, these projects were strong evidence to convince the government agencies to support the AI research financially, which raised the expectation of AI. Computer Scientists at that time believed that they were near to creating an AI, but it turned out that they were far away from achieving something called Artificial Intelligence due to the lack of storage capacity of the computer at that era.
+
+In the 1980s, AI developed more due to the expansion of the algorithmic toolkits and an increase of funds. John Hopfield and David Rumelhart announced the technique that lets the computer learn based on experience, this technique called “deep learning”. Besides, Edward Feigenbaum established the “Expert System”, which stimulated the way a human expert made decisions. From 1982 to 1990, the Japanese government spent $400 million dollars with the final goal of improving AI. Unfortunately, the goals were not achieved.
+
+From the 1900s to 2000s, AI reached a new level of achievement. For example, in 1997, IBM developed a chess computer program called Deep Blue. Deep Blue competed with world chess champion and grandmaster Gary Kasparov. This match was widely publicized with the result of Deep Blue winning. This event took a significant step, which showed that the Artificial Intelligence problem solving program is no longer a concept that came from a Science fiction movie or book.
+
+We then look at AI presently:
+
+Through widespread use of applications of the generative pre training transformer, AI entered the mainstream in 2022. The most popular application is open AI’s chatGPT. The widespread fascination with ChatGPT made it synonymous with AI in the minds of most consumers. However, it only reflects a small portion of the current applications for AI technology.
+
+AI has recently incorporated itself into our daily lives in ways that we might not even be aware of. It has spread so widely that many people are still oblivious of its effect and how much we depend on it. Our daily activities are largely driven by AI technology from morning to night. Many of us pick up our laptop or cell phone as soon as we wake up to begin our day. Our decision making, planning and information seeking processes now all automatically involve doing this. Once we’ve switched on our devices, we instantly plug into AI functionality such as: Face ID, image recognition, emails, social media, search engines, apps, digital voice assistants like Apple’s Siri and Amazon’s Alexa and driving aids like route mapping, weather conditions.
+ 
+Today AI permeates every part of our online personal and professional lives. It is such a crucial aspect in business and will continue to be global communication and networking. Making use of data science and artificial intelligence is crucial and its potential growth trajectory is unbounded.
+
+Lastly we look at the future of AI:
+
+According to research published by Frontier Economics, Artificial Intelligence will increase economic growth of 1.7% on average across 16 industries by 2035 with information, communication, manufacturing and financial services leading all industries.
+
+AI in transportation:
+Transportation industry will definitely be changed by AI in the future. Self-driving cars and AI travel planner technology will become more mature in the future, we will one day be ferried by them from place to place. We may not need to learn how to drive a car but to learn how to control the self-driving system in the future.
+
+AI in manufacturing:
+AI has benefited the Manufacturing industry for years. Manufacturing industries have been using drones and roberts since the 1960's. As machines become smarter, they can be responsible for more and more repetitive tasks.  AI can improve the speed, precision and quality control of manufacturing, it can also reduce the cost by improving productivity. Manufacturing industry will definitely become more automated in the future.
+
+AI in Healthcare:
+Here are three parts that AI will improve Healthcare in the future. According to the World Economic Forum Annual Meeting, Al will have access to a variety of data sources to help identify illness patterns and improve care and treatment. Healthcare systems will be able to forecast a person’s propensity for particular diseases and provide preventive actions. AI will aid in reducing patient wait times and enhancing hospital and healthcare system efficiency.
+
+AI in Finance:
+Adopting AI has become essential to the survival and expansion of the Fintech sector as demand for online banking and payment service rises constantly. Here are a few ways that upcoming AI developments could affect financial management: fraud detection, stronger security, improved customer service, customized banking services, saving money and resources, algorithm trading and automated loans.
+
+Analysis
+
+There are certainly a lot of positives that come with AI. It aids in so many aspects of our everyday lives which we have discussed in the video content at length. There is definitely quite the rush in tech right now to train a lot of AI systems, chatGPT is at the forefront but the entire tech industry is trying to get their products and services out as soon as possible as well. chatGPT being free (initial release and free version) and becoming mainstream has led the industry to now, hasten development and launch these AIs to the public. This is great in terms of more funding leading to more research and development which in turn provides better, more accurate and extremely precise products for the consumers.
+
+However, with the good comes the bad so let's briefly explore some risks of the fast development of AI to our daily lives; McKinsey forecasts that as many as 800 million workers will be displaced by AI and automation by 2030. A research by Investment bank Goldman also states that AI might replace the equivalent of 300 million full-time jobs. 
+
+There is also a lot of fears in the public about the types of data that are available for these AIs to be trained on and be privy to, along with fears of AIs breach privacy and data securities which has been something that the industry has tried to address many times, assuring the users that these fears are unfounded and that all data and model training are being done ethically.
+
+Conclusion
+
+To look at how far AI has come, to what seemed impossible not 100 years ago, is not only possible but also accessible to the majority of common users is incredible. The way AI manages, transforms and presents large amounts of data in mere minutes (or in some cases nano-seconds) speaks volume of where we are headed as a society in terms of data processing and information accessibility. Even the research conducted for this paper was only made easy because of AI. 
+
+However, it needs to be considered how much we are influencing or incorporating our daily lives with AI as it can be such an useful tool for personal and professional aspects of our lives but it can very much replace us in a lot of ways, especially in terms of jobs and skills. The advancement of AI can make a large number of people unemployable as skills that took some people years to master can now be easily and cheaply done by AI. 
+
+A lot of ethical considerations must take place prior to the implementation of AI which we do not believe is not being considered currently. 
+
+All in all, AI at any level, primitive or advanced, has impacted everyone's lives at some level.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+References
+
+AI in FinTech: Managing the Finance of the Future. (n.d.). KDnuggets. https://www.kdnuggets.com/2022/10/ai-fintech-managing-finance-future.html
+AI in Manufacturing: How It’s Used and Why It’s Important for Future Factories. (2022, January 18).https://redshift.autodesk.com/articles/ai-in-manufacturing
+Anyoha, R. (2017, August 28). The History of Artificial Intelligence. Science in
+the News; Harvard University. https://sitn.hms.harvard.edu/flash/2017/history-artificial-intelligence/
+Columbus, L. (2017, June 22). Artificial Intelligence Will Enable 38% Profit Gains By 2035. Forbes. https://www.forbes.com/sites/louiscolumbus/2017/06/22/artificial-intelligence-will-enable-38-profit-gains-by-2035/?sh=5dec35e61969
+Ferne, T. (2021). What does AI look like? Better Images of AI Blog. https://blog.betterimagesofai.org/.what-does-ai-look-like/
+Here are 3 ways AI will change healthcare by 2030. (2020, February 9). World Economic Forum. https://www.weforum.org/agenda/2020/01/future-of-artificial-intelligence-healthcare-delivery/
+Investopedia. (2019, June 6). Investopedia. https://www.investopedia.com/
+Manyika, J., & Sneader, K. (2018). AI, automation, and the future of work: Ten things to solve for. McKinsey & Company. https://www.mckinsey.com/featured-insights/future-of-work/ai-automation-and-the-future-of-work-ten-things-to-solve-for
+Online Masters UK, flexible learning - University of York. (2023, February 16). University of York. https://online.york.ac.uk/ 
+Vallance, C. (2023, March 28). AI could replace equivalent of 300 million jobs - report. BBC News. https://www.bbc.com/news/technology-65102150
+2 AI MAGAZINE. (n.d.). https://www.aaai.org/ojs/index.php/aimagazine/article/view/1904/1802
+
+
+
+
+
+
+
+
+
+Appendix
+
+Screenshot of our video intro.
